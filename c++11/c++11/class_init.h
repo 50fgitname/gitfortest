@@ -2,7 +2,7 @@
  
 using namespace std; 
  
-using namespace std;11111111111
+using namespace std; 
  
 
 class Init_Test1
