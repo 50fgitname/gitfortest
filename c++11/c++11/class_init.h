@@ -10,9 +10,6 @@ using namespace std; 3333333333333333gggggggggggggggggggggg33333333
  
  
  
-using namespace std; 
- 
- 
 
 class Init_Test1
 {
