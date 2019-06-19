@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std;222222222222222222222
 
 class Init_Test1
 {
