@@ -1,6 +1,6 @@
 #include<iostream>
  
-using namespace std;222222222222222222222
+using namespace std; 
  
 using namespace std;11111111111
  
