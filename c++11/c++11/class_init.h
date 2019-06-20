@@ -1,15 +1,6 @@
 #include<iostream>
  
 using namespace std; 
- 
- 
- 
-using namespace std; 333333333333333333333333
- 
-using namespace std; 3333333333333333gggggggggggggggggggggg33333333
- 
- 
- 
 
 class Init_Test1
 {
